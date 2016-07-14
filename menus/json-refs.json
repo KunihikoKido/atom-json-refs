@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Resolve json-refs",
+        "command": "json-refs:resolve"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "json-refs",
+          "submenu": [
+            {
+              "label": "Resolve",
+              "command": "json-refs:resolve"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

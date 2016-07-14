@@ -1,0 +1,19 @@
+{
+  "name": "json-refs",
+  "main": "./lib/json-refs",
+  "version": "0.0.0",
+  "description": "Resolve JSON Reference allows a JSON value to reference another value in a JSON document.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "json-refs:resolve"
+  },
+  "repository": "https://github.com/KunihikoKido/json-refs",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "json-refs": "2.1.6"
+  }
+}
