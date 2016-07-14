@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "json-refs:resolve"
   },
-  "repository": "https://github.com/KunihikoKido/json-refs",
+  "repository": "https://github.com/KunihikoKido/atom-json-refs",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
