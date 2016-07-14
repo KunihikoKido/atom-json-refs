@@ -3,7 +3,7 @@
   "main": "./lib/json-refs",
   "version": "0.1.0",
   "description": "Resolve JSON Reference allows a JSON value to reference another value in a JSON document.",
-  "keywords": [],
+  "keywords": ["json", "json reference"],
   "activationCommands": {
     "atom-workspace": "json-refs:resolve"
   },
